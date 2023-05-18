@@ -1,4 +1,4 @@
-# JavaScript Orientado a Objetos
+# Node.js Orientado a Objetos
 
 JavaScript: interfaces e Herança em Orientação a Objetos
 
